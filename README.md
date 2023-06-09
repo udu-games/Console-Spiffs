@@ -1,2 +1,2 @@
 # Console-Spiffs
-This repository contains the console spiffs files (.wav, .gif).
+This repository contains the console spiff files (.wav, .gif).
